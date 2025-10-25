@@ -1,0 +1,27 @@
+[{
+  "id": 1,
+  "title": "Modern Villa in San Francisco",
+  "image": "/src/assets/images/Properties/property-1.jpg",
+  "location": "San Francisco, California",
+  "bedrooms": 4,
+  "surface": 3500,
+  "price": 250000
+},
+{
+  "id": 2,
+  "title": "Modest Villa in Beverly Hills",
+  "image": "/src/assets/images/Properties/property-2.jpg",
+  "location": "Beverly Hills, California",
+  "bedrooms": 3,
+  "surface": 1500,
+  "price": 850000
+},
+{
+  "id": 3,
+  "title": "Luxurious Villa in San Francisco",
+  "image": "/src/assets/images/Properties/property-3.jpg",
+  "location": "Palo Alto, California",
+  "bedrooms": 6,
+  "surface": 4000,
+  "price": 3700000
+}]

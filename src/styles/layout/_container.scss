@@ -1,0 +1,22 @@
+// _container.scss
+@use "../abstracts/variables" as *;
+@use "../abstracts/mixins" as *;
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 8rem;
+
+  @include laptop {
+    padding: 0 4rem;
+  }
+
+  @include tablet {
+    padding: 0 2rem;
+  }
+
+  @include mobile {
+    padding: 0 1rem;
+  }
+}
